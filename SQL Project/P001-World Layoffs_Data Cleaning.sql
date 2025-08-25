@@ -1,4 +1,5 @@
 -- SQL Project - Data Cleaning
+-- Dataset_World Layoffs.csv
 -- https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
 SELECT *
