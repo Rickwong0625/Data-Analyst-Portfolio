@@ -1,2 +1,2 @@
 # Data-Analyst-Portfolio
-My data analysis portfolio – SQL, Python, Excel, Power BI projects,Tebleau
+My data analysis portfolio – SQL, Excel, Power BI projects, Tableau, Python
