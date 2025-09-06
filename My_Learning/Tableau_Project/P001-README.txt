@@ -1,0 +1,15 @@
+LINK -https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
+File was too large for GitHub so I put it in Kaggle as a workbook
+
+the use case for this data 
+
+hey! where you know i want to srart an airbnb business , i want to know where i should go?,where should i buy a home put it up on airbnb and start renying it out where's the best place? you know what are some of the factors that i should be looking at ?
+
+the some of the things that he cares about are things like
+-bedrooms
+-location
+-price (he actually going to get & how much money cann he charge)
+
+he's trying to optimize that to make sure that whatever rental he gets he can meke a lot the most profit from instead of choosing something that 
+
+*help this guy find a really good airbnb
