@@ -9,3 +9,4 @@ Here you will find my projects and practice work showcasing skills in:
 
 - **My_Project_View/** → Contains completed data analysis projects.  
 - **My_Learning/** → Contains practice exercises, learning notes, and mini-projects.  
+- **Certificate/** → Contains my diploma and professional certificates.
