@@ -28,7 +28,13 @@ The goal was to improve **data quality, consistency, and usability**, making the
    - Applied `ROW_NUMBER()` within a CTE to identify and delete duplicate records.  
 
 6. **Dropped Unused Columns**  
-   - Removed redundant columns (`OwnerAddress`, `TaxDistrict`, `PropertyAddress`, etc.) to optimize the dataset.  
+   - Removed redundant columns (`OwnerAddress`, `TaxDistrict`, `PropertyAddress`, etc.) to optimize the dataset.
+     
+## ✅ Results
+
+Delivered a clean, consistent, and structured dataset.
+
+Improved usability of housing data for future analysis and visualization.
 
 ## 📊 Example SQL Query  
 ```sql
