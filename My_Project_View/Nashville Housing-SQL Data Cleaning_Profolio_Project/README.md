@@ -45,3 +45,8 @@ DELETE
 FROM RowNumCTE
 WHERE row_num > 1;
 
+## ✅ Results
+
+- Delivered a clean, consistent, and structured dataset.
+
+- Improved usability of housing data for future analysis and visualization.
