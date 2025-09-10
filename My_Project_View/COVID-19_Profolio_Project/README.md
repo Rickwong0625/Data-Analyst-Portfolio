@@ -1,32 +1,31 @@
-COVID-19 Data Exploration & Visualization (SQL + Tableau)
+# 🦠 COVID-19 Data Exploration & Visualization (SQL + Tableau)
 
-📌 Project Overview
+## 📌 Project Overview
+This project explores **global COVID-19 data** using **MySQL** for analysis and **Tableau** for visualization.  
 
-This project explores global COVID-19 data using MySQL for data analysis and Tableau for visualization.
-The goal is to demonstrate end-to-end data analytics skills, including data cleaning, SQL queries, and building interactive dashboards to uncover insights.
+---
 
-🔧 Tools & Technologies
+## 🔧 Tools & Technologies
+- **MySQL** → Joins, CTEs, Temp Tables, Window Functions  
+- **Tableau** → Dashboard & Visualization  
+- **GitHub** → Version control & project sharing  
 
-MySQL (Joins, CTEs, Temp Tables, Window Functions)
+---
 
-Tableau (Dashboard & Visualization)
+## 📊 Key Analysis Performed (SQL)
+- Calculated **global infection rates, death percentages, and vaccination coverage**  
+- Aggregated data by **country** and **continent**  
+- Cleaned and transformed inconsistent data types (e.g., converting varchar to numeric)  
 
-GitHub
+---
 
-📊 Key Analysis Performed (SQL)
+## 📈 Tableau Dashboard
+Interactive dashboard includes:
+1. 🌍 Global Numbers (Cases & Deaths)  
+2. 🌐 Total Deaths per Continent  
+3. 🏳️ Percent Population Infected per Country  
+4. 📆 Trend of Infections Over Time  
 
-Calculated global infection rates, death percentages, and vaccination coverage.
+👉 [View on Tableau Public]([https://public.tableau.com/](https://public.tableau.com/views/Covid-19DashboardPortfolioProject_17574729023420/Dashboard1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
 
-Aggregated data by country and continent using Joins and Window Functions.
-
-📈 Tableau Dashboard
-
-Interactive dashboard showing:
-
-Global Numbers (Cases & Deaths)
-
-Total Deaths per Continent
-
-Percent Population Infected per Country
-
-Trend of Infections Over Time
+![Dashboard Screenshot](dashboard_screenshot.png)
