@@ -1,4 +1,4 @@
-# 🦠 COVID-19 Data Exploration & Visualization (SQL + Tableau)
+# COVID-19 Data Exploration & Visualization (SQL + Tableau)
 
 ## 📌 Project Overview
 This project explores **global COVID-19 data** using **MySQL** for analysis and **Tableau** for visualization.  
