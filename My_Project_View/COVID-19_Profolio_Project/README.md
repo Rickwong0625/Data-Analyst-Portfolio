@@ -31,9 +31,3 @@ The interactive dashboard highlights:
 
 ![Dashboard Screenshot](Tableau/Covid-19%20Dashboard%20PNG.png)  
 
----
-
-## 📎 Links
-- SQL Project File → [COVID-19 Data Analysis with SQL.sql](./SQL/COVID-19%20Data%20Analysis%20with%20SQL.sql)  
-- Tableau Dashboard → [View on Tableau Public](https://public.tableau.com/views/Covid-19DashboardPortfolioProject_17574729023420/Dashboard1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-
