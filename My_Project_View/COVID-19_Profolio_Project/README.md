@@ -29,5 +29,5 @@ The interactive dashboard highlights:
 
 👉 [**View Tableau Dashboard on Tableau Public**](https://public.tableau.com/views/Covid-19DashboardPortfolioProject_17574729023420/Dashboard1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
-![Dashboard Screenshot](Tableau/Covid-19%20Dashboard%20PNG.png)  
+![Dashboard Screenshot](https://github.com/Rickwong0625/Data-Analyst-Portfolio/blob/main/My_Project_View/COVID-19_Profolio_Project/Covid-19%20Dashboard%20PNG.png?raw=true)  
 
