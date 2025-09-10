@@ -32,9 +32,8 @@ The goal was to improve **data quality, consistency, and usability**, making the
      
 ## ✅ Results
 
-Delivered a clean, consistent, and structured dataset.
-
-Improved usability of housing data for future analysis and visualization.
+- Delivered a clean, consistent, and structured dataset.
+- Improved usability of housing data for future analysis and visualization.
 
 ## 📊 Example SQL Query  
 ```sql
