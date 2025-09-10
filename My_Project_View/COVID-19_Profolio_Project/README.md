@@ -33,18 +33,6 @@ The interactive dashboard highlights:
 
 ---
 
-## 📂 Repository Structure
-COVID-19 Data Analysis with SQL.sql          # SQL queries for exploration
-COVID-19 Queries used for Tableau.sql        # SQL queries prepared for Tableau
-Covid-19 Dashboard PNG.png                   # Dashboard screenshot
-Covid-19 Dashboard Portfolio Project.twbx    # Tableau packaged workbook
-Covid-19 Dashboard Portfolio Project__19448.twbr # Tableau backup / recovery file
-Dataset_CovidDeaths_csv.csv                  # Raw dataset (COVID deaths)
-Dataset_CovidVaccinations_csv.csv            # Raw dataset (COVID vaccinations)
-README.md                                    # Project documentation
-
----
-
 ## 📎 Links
 - SQL Project File → [COVID-19 Data Analysis with SQL.sql](./SQL/COVID-19%20Data%20Analysis%20with%20SQL.sql)  
 - Tableau Dashboard → [View on Tableau Public](https://public.tableau.com/views/Covid-19DashboardPortfolioProject_17574729023420/Dashboard1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
