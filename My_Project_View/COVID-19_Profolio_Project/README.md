@@ -28,4 +28,4 @@ Interactive dashboard includes:
 
 👉 [View on Tableau Public]([https://public.tableau.com/](https://public.tableau.com/views/Covid-19DashboardPortfolioProject_17574729023420/Dashboard1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](Covid-19 Dashboard PNG.png)
