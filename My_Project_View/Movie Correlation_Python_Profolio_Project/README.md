@@ -7,7 +7,7 @@ The goal is to identify trends and relationships in the movie industry using Pyt
 ---
 
 ## 📊 Dataset
-- Source: Publicly available movies dataset (Kaggle/IMDB-style).  
+- Source: Publicly available movies dataset (Kaggle/IMDB-style).  link: https://www.kaggle.com/datasets/danielgrijalvas/movies
 - Contains columns such as: `budget`, `gross`, `company`, `released`, `score`, etc.  
 - Data cleaning and preprocessing were performed to handle missing values and convert datatypes.
 
