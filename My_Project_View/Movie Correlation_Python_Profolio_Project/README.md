@@ -48,12 +48,3 @@ The goal is to identify trends and relationships in the movie industry using Pyt
 - Other categorical factors like company and genre require further analysis.  
 
 ---
-
-## 🔮 Future Improvements
-- Expand dataset (include genres, directors, ratings).  
-- Try **Spearman** and **Kendall** correlation for categorical/ordinal data.  
-- Build predictive models (e.g., regression to estimate gross from budget).  
-
----
-
-## 📂 Project Structure
