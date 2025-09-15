@@ -2,7 +2,7 @@
 
 **Welcome to my Data Analyst Portfolio!**  
 Here you will find my projects and practice work showcasing skills in:  
-**SQL, Excel, Power BI, Tableau, Python**
+**SQL, Excel, Power BI, Tableau, Python, Azure/AWS**
 
 ---
 ## 📁 Repository Structure  
